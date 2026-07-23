@@ -78,11 +78,14 @@ int main() {
 
 ```
 # OUTPUT
-# Symbol not found:
-<img width="1176" height="557" alt="Screenshot 2026-07-23 104500" src="https://github.com/user-attachments/assets/7739cf74-f120-472c-aacf-c4030ecdf261" />
 
 # Symbol found:
-<img width="740" height="542" alt="Screenshot 2026-07-23 104817" src="https://github.com/user-attachments/assets/d3dad97f-0fbf-41a6-8204-827e7384da91" />
+<img width="1000" height="460" alt="Screenshot 2026-07-23 105908" src="https://github.com/user-attachments/assets/de96a812-5aa8-4af3-9392-09110def3d40" />
+
+
+# Symbol not found:
+<img width="887" height="460" alt="Screenshot 2026-07-23 105943" src="https://github.com/user-attachments/assets/74201b02-75fb-4279-861f-6f571b36e5c2" />
+
 
 # RESULT
 ### The program to implement a symbol table is executed and the output is verified.
